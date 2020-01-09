@@ -1,0 +1,7 @@
+separation,name,ra,dec,err_ellipse_r0,err_ellipse_r1,err_ellipse_ang,significance,likelihood_class,conf_flag,sat_src_flag,streak_src_flag,flux_aper_b,flux_aper_lolim_b,flux_aper_hilim_b,flux_aper_w,flux_aper_lolim_w,flux_aper_hilim_w
+    13.80, 2CXO J101735.6-462450, 10 17 35.60,-46 24 50.48,   0.88,     0.82,     98.1,     2.76,                TRUE,FALSE,FALSE,FALSE,2.085e-16,0.000e+00,4.170e-16,         ,         ,         
+    23.63, 2CXO J101736.0-462422, 10 17 36.08,-46 24 22.57,   0.73,     0.72,     53.9,     7.89,                TRUE,FALSE,FALSE,FALSE,6.105e-15,5.308e-15,6.903e-15,         ,         ,         
+    25.16, 2CXO J101738.5-462427, 10 17 38.57,-46 24 27.35,   1.35,     1.16,    101.5,     2.49,                TRUE,FALSE,FALSE,FALSE,2.600e-16,8.665e-17,4.333e-16,         ,         ,         
+    28.83, 2CXO J101735.7-462418, 10 17 35.80,-46 24 18.09,   0.72,     0.72,     70.2,     9.35,                TRUE,FALSE,FALSE,FALSE,1.365e-14,1.216e-14,1.505e-14,         ,         ,         
+    53.28, 2CXO J101737.5-462352, 10 17 37.59,-46 23 52.21,   0.78,     0.74,     40.5,     4.12,                TRUE,FALSE,FALSE,FALSE,2.515e-15,1.887e-15,3.144e-15,         ,         ,         
+    55.25, 2CXO J101736.1-462539, 10 17 36.17,-46 25 39.73,   0.97,     0.82,     76.2,     3.94,                TRUE,FALSE,FALSE,FALSE,3.827e-15,2.724e-15,4.865e-15,         ,         ,         

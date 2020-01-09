@@ -1,0 +1,15 @@
+
+# Ignore fits files and compressed fits file
+*.fits
+*.fits.bz2
+
+#Python and notebook related
+*.py[co]
+__pycache__
+.ipynb_checkpoints
+
+#data
+Stetsondata/
+Docs/
+hst/
+

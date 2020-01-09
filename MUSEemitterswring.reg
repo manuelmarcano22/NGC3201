@@ -1,0 +1,12 @@
+fk5; circle(10:17:32,-46:25:32.58,.1") # color=green text={MUSE0} 
+fk5; circle(10:17:33,-46:25:07.42,.1") # color=green text={MUSE1} 
+fk5; circle(10:17:34,-46:24:33.15,.1") # color=green text={MUSE2} 
+fk5; circle(10:17:35,-46:24:50.51,.1") # color=green text={MUSE3} 
+fk5; circle(10:17:36,-46:25:12.50,.1") # color=green text={MUSE4} 
+fk5; circle(10:17:36,-46:25:36.03,.1") # color=green text={MUSE5} 
+fk5; circle(10:17:36,-46:24:28.08,.1") # color=green text={MUSE6} 
+fk5; circle(10:17:37,-46:23:52.24,.1") # color=green text={MUSE7} 
+fk5; circle(10:17:38,-46:24:27.12,.1") # color=green text={MUSE8} 
+fk5; circle(10:17:39,-46:24:30.11,.1") # color=green text={MUSE9} 
+fk5; circle(10:17:39,-46:24:11.03,.1") # color=green text={MUSE10} 
+fk5; circle(10:17:39,-46:25:11.89,.1") # color=green text={MUSE11} 
